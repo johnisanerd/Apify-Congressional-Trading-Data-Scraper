@@ -15,8 +15,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd Apify-Google-Jobs-Search-Scraper
+   git clone https://github.com/johnisanerd/Apify-Congressional-Trading-Data-Scraper.git
+   cd Apify-Congressional-Trading-Data-Scraper
    ```
 
 2. **Create a virtual environment (recommended)**
