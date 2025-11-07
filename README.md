@@ -65,4 +65,4 @@ You can see more documentation on how to use the [Congressional stock tradesscra
 [**Made with ❤️**](https://apify.com/johnvc?fpr=9n7kx3)
 
 *Transform your search automation with the most reliable and efficient Congressional stock trades scraper on the market.*
-Last Updated: 2025.11.06
+Last Updated: 2025.11.07
