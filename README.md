@@ -1,6 +1,6 @@
 # Apify Congressional Trading Data Scraper
 
-[Scrape the US Congressional trading data:  get transactions from both the House and the Senate.](https://apify.com/johnvc/apify-us-congress-financial-disclosures-and-stock-trading-data?fpr=9n7kx3)
+[Scrape the US Congressional trading data:  get transactions from both the House and the Senate.](https://apify.com/johnvc/us-congress-financial-disclosures-and-stock-trading-data?fpr=9n7kx3)
 
 
 > **The most efficient, reliable, and developer-friendly Google Jobs search scraper**
@@ -59,7 +59,7 @@ export APIFY_API_TOKEN="your_api_key_here"
 python congress-stock-trades-scraper.py
 ```
 
-You can see more documentation on how to use the [Congressional stock tradesscraper here.](https://apify.com/johnvc/apify-us-congress-financial-disclosures-and-stock-trading-data?fpr=9n7kx3)
+You can see more documentation on how to use the [Congressional stock tradesscraper here.](https://apify.com/johnvc/us-congress-financial-disclosures-and-stock-trading-data?fpr=9n7kx3)
 
 
 [**Made with ❤️**](https://apify.com/johnvc?fpr=9n7kx3)
