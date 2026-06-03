@@ -309,4 +309,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Congress Trading API to power transparency, research, and compliance workflows with reliable, structured results.*
 
-Last Updated: 2026.06.03
+Last Updated: 2026.06.04
